@@ -1,7 +1,7 @@
 ### Hi there , I'm Xposean👋
 
 - ⚡ Base 深圳
-- 🔭 一名三年开发经验的Web前端开发功能, 擅长`vue`、`nodejs`开发, 希望与各位大佬合作。
+- 🔭 一名三年开发经验的Web前端开发码农, 擅长`vue`、`nodejs`开发, 希望与各位大佬合作。
 - 💬 wechat：WHBvc2Vhbg== 
 
 
